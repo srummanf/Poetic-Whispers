@@ -43,15 +43,12 @@ const HeroSection = () => {
           </p>
           <div className="flex items-center gap-6 pt-6">
             <Button className="gap-2 px-8 py-4 text-lg rounded-full bg-primary text-background hover:bg-primary/90 transition-all">
-              <a
-                href="#poems"
-                onClick={(e) => handleSmoothScroll(e, "poems")}
-              >
+              <a href="#poems" onClick={(e) => handleSmoothScroll(e, "poems")}>
                 View poems
               </a>
               <ArrowRight size={20} />
             </Button>
-            <div className="flex items-center gap-4">
+            {/* <div className="flex items-center gap-4">
               <a
                 href="https://github.com"
                 target="_blank"
@@ -91,7 +88,7 @@ const HeroSection = () => {
                   <Twitter size={24} />
                 </Button>
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

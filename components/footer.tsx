@@ -12,7 +12,7 @@ export default function Footer() {
 
           <div className="flex items-center gap-4">
             <Link
-              href="https://github.com"
+              href="https://github.com/srummanf/Poetic-Whispers"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -21,7 +21,7 @@ export default function Footer() {
               <span className="sr-only">GitHub</span>
             </Link>
             <Link
-              href="https://twitter.com"
+              href="https://x.com/srummanf"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -34,7 +34,7 @@ export default function Footer() {
 
         <div className="mt-6 text-center text-sm text-muted-foreground">
           <p className="flex items-center justify-center gap-1">
-            Made with <Heart className="h-4 w-4 text-destructive" /> by SRF and inspired by <a href="https://matsu-theme.vercel.app/" target="_blank" className="underline hover:text-primary">Matsu Theme - Studio Ghibli </a>
+            Made with <Heart className="h-4 w-4 text-destructive" /> by <a href="https://www.linkedin.com/in/srummanf/" target="_blank" className="underline hover:text-primary"> SRF </a> and inspired by <a href="https://matsu-theme.vercel.app/" target="_blank" className="underline hover:text-primary">Matsu Theme - Studio Ghibli </a>
           </p>
           <p className="mt-2">
             Using{" "}

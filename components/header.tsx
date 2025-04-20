@@ -76,7 +76,7 @@ export default function Header() {
             <Button
               variant="secondary"
               size="sm"
-              className="flex items-center gap-2"
+              className="flex items-center gap-2 hover:cursor-pointer"
               onClick={handleSurpriseMe}
             >
               Surprise Me

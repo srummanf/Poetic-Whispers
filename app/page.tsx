@@ -71,7 +71,7 @@ export default function Home() {
       <HeroSection />
 
       <main className="container mx-auto px-4 py-16" id="poems">
-        <motion.div
+        {/* <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
@@ -83,7 +83,7 @@ export default function Home() {
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
             A collection of poems inspired by the magical world of Studio Ghibli
           </p>
-        </motion.div>
+        </motion.div> */}
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
           {loading
