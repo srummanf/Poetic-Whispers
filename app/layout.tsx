@@ -54,7 +54,7 @@ export const metadata: Metadata = {
       "A Ghibli-inspired sanctuary of timeless poetry from literary masters like Shakespeare and Edward Thomas. Immerse yourself in elegantly preserved verses.",
     images: [
       {
-        url: "/images/bg-1.jpg",
+        url: "/images/ghibli-bg-1.jpg",
         width: 1200,
         height: 630,
         alt: "Poetic Whispers - Ghibli-Inspired Poetry Collection",
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     title: "Poetic Whispers - Timeless Poetry in Ghibli Style",
     description:
       "Experience the magic of classic poetry through our enchanting Ghibli and matsu-themed literary sanctuary",
-    images: ["/images/bg-2.jpg"],
+    images: ["/images/ghibli-bg-2.jpg"],
     creator: "@poeticwhispers",
   },
   robots: {
