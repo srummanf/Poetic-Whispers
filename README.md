@@ -8,7 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 The visual aesthetics are inspired by Studio Ghibli films and the serene matsu (pine) design philosophy, creating a peaceful and nostalgic environment for enjoying timeless poetry.
 
-![Poetic Whispers Screenshot](https://claude.ai/images/bg-1.jpg)
+![1745153691587](image/README/1745153691587.png)
 
 ## Features
 
@@ -16,10 +16,10 @@ The visual aesthetics are inspired by Studio Ghibli films and the serene matsu (
 * **Ghibli-Inspired Interface** : Enjoy a visually stunning, animated interface reminiscent of Studio Ghibli's art style
 * **Poem Search** : Find specific poems or poets using our intuitive search functionality
 * **Surprise Me** : Discover new poems with our "Surprise Me" feature that presents a random poem from the collection
-* **Responsive Design** : Experience beautiful poetry on any device with our fully responsive layout
+* **Responsive Design** : Experience beautiful poetry on any device wth our fully responsive layout
 * **Seasonal Themes** : The visual experience changes subtly with the seasons, offering a fresh perspective on return visits
 
-![Poetry Reading Interface](https://claude.ai/images/bg-2.jpg)
+![1745153686274](image/README/1745153686274.png)
 
 ## Getting Started
 
